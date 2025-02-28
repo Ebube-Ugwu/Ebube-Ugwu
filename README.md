@@ -53,7 +53,10 @@ I made this readme using [this](https://profile-readme-generator.com)
 There's a cool tutorial on adding the snake animation by [Tobias](https://youtu.be/onUx22pgiBM?si=i0acl7suSS0rZsdQ)
 
 <br clear="both">
-
+<picture>
+    <source media="{prefers-color-scheme: dark}" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" />
+    <source media="{prefers-color-scheme: light}" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" />
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+</picture>
 
 ###
