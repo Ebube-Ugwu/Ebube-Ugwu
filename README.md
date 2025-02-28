@@ -13,7 +13,7 @@
 
 ###
 
-<img align="right" height="150" src="images/profile.gif"  />
+<img align="right" height="200" src="images/profile.gif"  />
 
 ###
 ## Tech Stack 
