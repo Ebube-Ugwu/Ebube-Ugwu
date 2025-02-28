@@ -39,12 +39,17 @@
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:user)
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
 ###
+
+###
+#### You like?
+I made this readme using [this](https://profile-readme-generator.com)
+
+There's a cool tutorial on adding the snake animation by [Tobias](https://youtu.be/onUx22pgiBM?si=i0acl7suSS0rZsdQ)
 
 <br clear="both">
 
