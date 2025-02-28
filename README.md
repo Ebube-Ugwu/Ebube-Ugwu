@@ -54,9 +54,9 @@ There's a cool tutorial on adding the snake animation by [Tobias](https://youtu.
 
 <br clear="both">
 <picture>
-    <source media="{prefers-color-scheme: dark}" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" />
-    <source media="{prefers-color-scheme: light}" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" />
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+    <source media="{prefers-color-scheme: dark}" srcset="https://raw.githubusercontent.com/Ebube-Ugwu/Ebube-Ugwu/output/snake.svg" />
+    <source media="{prefers-color-scheme: light}" srcset="https://raw.githubusercontent.com/Ebube-Ugwu/Ebube-Ugwu/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/Ebube-Ugwu/Ebube-Ugwu/output/snake.svg" alt="Snake animation" />
 </picture>
 
 ###
