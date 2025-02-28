@@ -16,11 +16,10 @@
 <img align="right" height="150" src="images/profile.gif"  />
 
 ###
-
+## Tech Stack 
 <div align="left">
-  <i class="devicon-php-plain colored"></i>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicons/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
     <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -28,11 +27,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicons/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicons/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="30" alt="php logo"  />
 </div>
 
 ###
@@ -46,7 +45,9 @@
 ###
 
 ###
-#### You like?
+
+### You like?
+
 I made this readme using [this](https://profile-readme-generator.com)
 
 There's a cool tutorial on adding the snake animation by [Tobias](https://youtu.be/onUx22pgiBM?si=i0acl7suSS0rZsdQ)
