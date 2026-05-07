@@ -36,7 +36,8 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/ebube-ugwu-80b89829" target="_blank">
+  <a href="https://www.linkedin.com/in/ebube-ugwu-80b898296?utm_source=share_via&utm_content=profile&utm_medium=member_android
+  " target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/Ebube_K_Ugwu" target="_blank">
